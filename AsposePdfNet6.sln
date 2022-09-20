@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsposePdfNet6", "AsposePdfNet6\AsposePdfNet6.csproj", "{50470EAC-8615-41D0-9B8C-03CFF6BE10B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50470EAC-8615-41D0-9B8C-03CFF6BE10B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50470EAC-8615-41D0-9B8C-03CFF6BE10B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50470EAC-8615-41D0-9B8C-03CFF6BE10B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50470EAC-8615-41D0-9B8C-03CFF6BE10B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96464E62-D20C-4F2B-974B-B10617DC73A6}
+	EndGlobalSection
+EndGlobal
